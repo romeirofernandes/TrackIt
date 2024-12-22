@@ -2,7 +2,7 @@
 
 **TrackIt** is a budgeting tool designed to help students manage their finances in a simple and effective way. It allows users to track their balance, create budgets, and manage transactions. Perfect for anyone looking to stay on top of their money!
 
-🔗 **Check out the app here**: [TrackIt](https://track-it-gamma-rust.vercel.app/)
+🔗 **Check out the app here**: [TrackIt](https://track-it-eight-omega.vercel.app/)
 
 ---
 
